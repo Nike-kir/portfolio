@@ -6,5 +6,6 @@
 
 [Отчет по RFM-анализу клиентской базы аптечной сети](./RFM-анализ%20клиентской%20базы%20аптечной%20сети.pdf)
 
-[Посмотреть дашборд RFM анализа]([https://metabase.simulative.ru/dashboard/228-rfm-analiz](http://metabase.simulative.ru/public/dashboard/d4b68b5d-1951-472f-9bc3-afffe384883c)) 
+[Посмотреть дашборд RFM анализа](https://metabase.simulative.ru/public/dashboard/d4b68b5d-1951-472f-9bc3-afffe384883c) 
+
 [Код для рcачетов и визуализаций в Metabase](./RFM%20analysis/RFM_code)
