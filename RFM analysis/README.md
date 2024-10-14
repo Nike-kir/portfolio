@@ -8,4 +8,4 @@
 
 [Посмотреть дашборд RFM анализа](https://metabase.simulative.ru/public/dashboard/d4b68b5d-1951-472f-9bc3-afffe384883c) 
 
-[Код для раcчетов и визуализаций в Metabase](./RFM%20analysis/RFM_code)
+[Код для раcчетов и визуализаций в Metabase](./RFM_code)
