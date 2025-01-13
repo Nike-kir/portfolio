@@ -1,7 +1,7 @@
 {
     "api_url": "https://b2b.itresume.ru/api/statistics",
-    "client": "Skillfactory",
-    "client_key": "M2MGWS"
+    "client": "Your_client",
+    "client_key": "Your_client_key"
 }
 
 
